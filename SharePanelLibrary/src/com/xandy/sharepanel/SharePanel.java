@@ -117,13 +117,10 @@ public class SharePanel implements OnItemClickListener {
 	}
 	
 	private void show() {
-		try {
-			if( null != mDialog ) {
-				mDialog.show();
-			}			
-		} catch (Exception e) {
-			Log.d(TAG, e.getLocalizedMessage());
-		}		
+		if( null == mDialog ) {
+			initSharePanel();
+		}			
+		mDialog.show();	
 	}
 	
 	public void dissmis() {
