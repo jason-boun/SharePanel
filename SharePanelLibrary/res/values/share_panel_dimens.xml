@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="share_panel_padding">8dp</dimen>
+    <dimen name="share_panel_title_height">48dp</dimen>
+    <dimen name="share_panel_title_size">20sp</dimen>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="share_list_package_name">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mm</item>
+        <item>com.sina.weibo</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.WBlog</item>
+        <item>com.qzone</item>
+    </string-array>
+    <string-array name="share_list_activity_name">
+        <item>com.tencent.mm.ui.tools.ShareImgUI</item>
+        <item>com.tencent.mm.ui.tools.ShareToTimeLineUI</item>
+        <item>com.sina.weibo.ComposerDispatchActivity</item>
+        <item>com.tencent.mobileqq.activity.JumpActivity</item>
+        <item>com.tencent.WBlog.intentproxy.TencentWeiboIntent</item>
+        <item>com.qzonex.module.operation.ui.QZonePublishMoodActivity</item>
+    </string-array>
+    
+</resources>
